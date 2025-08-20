@@ -39,7 +39,7 @@ install_requires = setup_requires + [
     'configparser',
     'contextlib2',
     'h5py',
-    'protobuf~=3.20',
+    'protobuf~=6.32',
     'pyyaml',
     'scipy',
     'six',
