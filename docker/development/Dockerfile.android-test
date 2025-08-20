@@ -15,7 +15,7 @@
 
 # for nnabla>=1.5.0
 
-FROM gradle:4.10.0-jdk8
+FROM gradle:8.14.3-jdk8
 
 ARG PIP_INS_OPTS
 ARG PYTHONWARNINGS
