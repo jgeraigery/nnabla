@@ -15,7 +15,7 @@
 
 # for nnabla>=1.5.0
 
-FROM rockylinux:8
+FROM rockylinux:9
 
 ARG PIP_INS_OPTS
 ARG PYTHONWARNINGS
